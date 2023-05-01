@@ -1,0 +1,16 @@
+{
+  "name": "ejerciciotema13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Ejerccio-ESLint.js",
+  "scripts": {
+    "lint": "eslint .",
+    "lint-fix": "eslint --fx ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.39.0"
+  }
+}
